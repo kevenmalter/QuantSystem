@@ -20,19 +20,19 @@
 /**
  * @defgroup AlgorithmLayer Algorithm Layer
  *
- * 
+ *
  */
 #ifndef QUANTSYSTEM___H_
-#define 
+#define QUANTSYSTEM___H_
 
 namespace quantsystem {
 
 /**
- * 
- * @ingroup 
+ *
+ * @ingroup
  */
 
 
 
 }  // namespace quantsystem
-#endif  // 
+#endif  //

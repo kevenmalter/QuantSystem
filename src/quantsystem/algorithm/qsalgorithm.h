@@ -33,6 +33,7 @@ using std::string;
 using std::vector;
 #include <map>
 using std::map;
+#include <functional>
 #include "quantsystem/interfaces/ialgorithm.h"
 #include "quantsystem/common/global.h"
 #include "quantsystem/common/time/date_time.h"
